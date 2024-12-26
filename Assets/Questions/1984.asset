@@ -15,8 +15,8 @@ MonoBehaviour:
   question: "What is the name of the main character in \u201C1984\u201D written by
     George Orwell?"
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - John Smith
+  - John Snow
+  - Winston Smith
+  - Winston Churchill
+  correctAnswerIndex: 2

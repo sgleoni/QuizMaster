@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d9399de0b47bcf49a4abf34a75a1f87, type: 3}
   m_Name: The Little Prince
   m_EditorClassIdentifier: 
-  question: "When was \u201CThe Little Prince\u201D published?"
+  question: "When was \u201CThe Little Prince\u201D originally published?"
+  answers:
+  - 1842
+  - 1954
+  - 1987
+  - 1943
+  correctAnswerIndex: 3

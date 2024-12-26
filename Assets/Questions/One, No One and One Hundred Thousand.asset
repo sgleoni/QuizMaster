@@ -14,3 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: "From which country comes the author of \u201COne, No One and One Hundred
     Thousand\u201D?"
+  answers:
+  - Italy
+  - Spain
+  - France
+  - England
+  correctAnswerIndex: 0

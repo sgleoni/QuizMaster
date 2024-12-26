@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Lord of the Flies
   m_EditorClassIdentifier: 
   question: "Who wrote \u201CLord of the Flies\u201D?"
+  answers:
+  - John Ronald Reuel Tolkien
+  - William Golding
+  - Dan Brown
+  - Ken Follet
+  correctAnswerIndex: 1
